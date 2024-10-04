@@ -1,0 +1,19 @@
+14:28:36.045 [main] INFO  BaseClass.Driver - ---------- Click on Tenure TextBox and Fill Year ----------
+14:28:36.372 [main] INFO  BaseClass.Driver - ---------- Fetching  Principal amount and Interest ----------
+14:28:36.670 [main] INFO  BaseClass.Driver - ---------- Printing Principal amount and Interest in console ----------
+14:28:36.904 [main] INFO  BaseClass.Driver - ---------- Click on the Calculator present in Menu ----------
+14:29:50.006 [main] INFO  BaseClass.Driver - ---------- Click on the Home Loan Present in Menu ----------
+14:30:50.337 [main] INFO  BaseClass.Driver - ---------- Enter Details in home Loan ----------
+14:31:00.532 [main] INFO  BaseClass.Driver - ---------- Printing Year Wise Table in console ----------
+14:31:00.754 [main] INFO  BaseClass.Driver - ---------- Writing Year Wise Table in Excel ----------
+14:32:12.237 [main] INFO  BaseClass.Driver - ---------- Click on the Calculator Present in menu ----------
+14:33:25.334 [main] INFO  BaseClass.Driver - ---------- Click on the Loan Calculator Present in menu ----------
+14:34:25.916 [main] INFO  BaseClass.Driver - ********** Validating EMI Calculator Text **********
+14:34:36.369 [main] INFO  BaseClass.Driver - ********** Validating EMI Calculator Text Box  **********
+14:35:49.408 [main] INFO  BaseClass.Driver - ********** Validating EMI Calculator Year To month Conversion **********
+14:35:49.620 [main] INFO  BaseClass.Driver - ********** Validating EMI Calculator Slider **********
+14:36:01.250 [main] INFO  BaseClass.Driver - ---------- Click on the Calculators Present in menu ----------
+14:37:14.154 [main] INFO  BaseClass.Driver - ---------- Click on the Loan Calculator Present in menu ----------
+14:38:14.815 [main] INFO  BaseClass.Driver - ---------- Click on the Loan Amount Calculator ----------
+14:39:28.365 [main] INFO  BaseClass.Driver - ********** Validating Loan Amount Calculator Text **********
+14:39:38.537 [main] INFO  BaseClass.Driver - ********** Validating Loan Amount Calculator Text Box **********

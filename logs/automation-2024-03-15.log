@@ -1,0 +1,47 @@
+15:31:07.948 [main] INFO  BaseClass.Driver - ---------- Click on the Calculator present in Menu ----------
+15:31:08.528 [main] INFO  BaseClass.Driver - ---------- Click on the Home Loan Present in Menu ----------
+15:31:10.122 [main] INFO  BaseClass.Driver - ---------- Enter Details in home Loan ----------
+15:31:19.966 [main] INFO  BaseClass.Driver - ---------- Printing Year Wise Table in console ----------
+15:31:21.362 [main] INFO  BaseClass.Driver - ---------- Writing Year Wise Table in Excel ----------
+15:31:34.774 [main] INFO  BaseClass.Driver - ---------- Click on the Calculator Present in menu ----------
+15:31:35.285 [main] INFO  BaseClass.Driver - ---------- Click on the Loan Calculator Present in menu ----------
+15:31:36.784 [main] INFO  BaseClass.Driver - ********** Validating EMI Calculator Text **********
+15:31:37.567 [main] INFO  BaseClass.Driver - ********** Validating EMI Calculator Text Box  **********
+15:31:38.070 [main] INFO  BaseClass.Driver - ********** Validating EMI Calculator Year To month Conversion **********
+15:31:38.457 [main] INFO  BaseClass.Driver - ********** Validating EMI Calculator Slider **********
+15:31:41.878 [main] INFO  BaseClass.Driver - ---------- Click on the Calculators Present in menu ----------
+15:31:42.336 [main] INFO  BaseClass.Driver - ---------- Click on the Loan Calculator Present in menu ----------
+15:31:43.172 [main] INFO  BaseClass.Driver - ---------- Click on the Loan Amount Calculator ----------
+15:31:44.575 [main] INFO  BaseClass.Driver - ********** Validating Loan Amount Calculator Text **********
+15:31:45.248 [main] INFO  BaseClass.Driver - ********** Validating Loan Amount Calculator Text Box **********
+15:31:45.758 [main] INFO  BaseClass.Driver - ********** Validating Loan Amount Calculator Year To Month Conversion **********
+15:31:46.141 [main] INFO  BaseClass.Driver - ********** Validating Loan Amount Calculator Slider **********
+15:31:49.354 [main] INFO  BaseClass.Driver - ---------- Click on the Calculators Present in menu ----------
+15:31:49.848 [main] INFO  BaseClass.Driver - ---------- Click on the Loan Calculator Present in menu ----------
+15:31:50.707 [main] INFO  BaseClass.Driver - ---------- Click on the Loan Tenure Calculator ----------
+15:31:51.795 [main] INFO  BaseClass.Driver - ********** Validating Loan Tenure Calculator Text **********
+15:31:52.571 [main] INFO  BaseClass.Driver - ********** Validating Loan Tenure Calculator Text Box  **********
+15:31:53.069 [main] INFO  BaseClass.Driver - ********** Validating Loan Tenure Calculator Slider **********
+15:59:08.445 [main] INFO  BaseClass.Driver - ---------- Click on the Car Loan ----------
+15:59:24.194 [main] INFO  BaseClass.Driver - ---------- Click on the Principal TextBox and fill amount ----------
+15:59:27.937 [main] INFO  BaseClass.Driver - ---------- Click on Interest TextBox and fill Interest Rate ----------
+15:59:28.974 [main] INFO  BaseClass.Driver - ---------- Click on Tenure TextBox and Fill Year ----------
+15:59:30.017 [main] INFO  BaseClass.Driver - ---------- Fetching  Principal amount and Interest ----------
+15:59:30.727 [main] INFO  BaseClass.Driver - ---------- Printing Principal amount and Interest in console ----------
+15:59:44.546 [main] INFO  BaseClass.Driver - ---------- Click on the Calculator present in Menu ----------
+15:59:45.375 [main] INFO  BaseClass.Driver - ---------- Click on the Home Loan Present in Menu ----------
+15:59:46.979 [main] INFO  BaseClass.Driver - ---------- Enter Details in home Loan ----------
+15:59:58.098 [main] INFO  BaseClass.Driver - ---------- Printing Year Wise Table in console ----------
+16:00:00.175 [main] INFO  BaseClass.Driver - ---------- Writing Year Wise Table in Excel ----------
+16:00:33.066 [main] INFO  BaseClass.Driver - ---------- Click on the Calculator Present in menu ----------
+16:00:33.866 [main] INFO  BaseClass.Driver - ---------- Click on the Loan Calculator Present in menu ----------
+16:00:35.501 [main] INFO  BaseClass.Driver - ********** Validating EMI Calculator Text **********
+16:00:36.336 [main] INFO  BaseClass.Driver - ********** Validating EMI Calculator Text Box  **********
+16:00:36.953 [main] INFO  BaseClass.Driver - ********** Validating EMI Calculator Year To month Conversion **********
+16:00:37.533 [main] INFO  BaseClass.Driver - ********** Validating EMI Calculator Slider **********
+16:00:56.071 [main] INFO  BaseClass.Driver - ---------- Click on the Calculators Present in menu ----------
+16:00:56.850 [main] INFO  BaseClass.Driver - ---------- Click on the Loan Calculator Present in menu ----------
+16:00:58.469 [main] INFO  BaseClass.Driver - ---------- Click on the Loan Amount Calculator ----------
+16:01:01.519 [main] INFO  BaseClass.Driver - ********** Validating Loan Amount Calculator Text **********
+16:01:02.455 [main] INFO  BaseClass.Driver - ********** Validating Loan Amount Calculator Text Box **********
+16:01:03.902 [main] INFO  BaseClass.Driver - ********** Validating Loan Amount Calculator Year To Month Conversion **********
